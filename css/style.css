@@ -1,0 +1,45 @@
+img {
+  border: 0px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.round {
+  border-radius: 100%;
+}
+
+body
+{
+  background: #f0ffff;
+}
+
+table {
+  padding: 20px;
+  border-collapse:collapse;
+  column-gap: 50%;
+}
+
+hr
+{
+  width: 30%;
+ border-width: 10px;  border-style: dotted none none;
+    border-color: #9fd8df;
+}
+
+h1
+{
+    color: black;
+}
+h3
+{
+    color: #2f4f4f;
+}
+h4
+{
+  color:#696969;
+}
+h5
+{
+  color:#696969;
+}
